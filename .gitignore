@@ -12,6 +12,8 @@
 /[Mm]emoryCaptures/
 /[Rr]emovedApps/
 /[Rr]emovedModules/
+/[Aa]ssets/Shapes
+/[Aa]ssets/Shapes.meta
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
